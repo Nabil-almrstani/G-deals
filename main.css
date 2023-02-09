@@ -176,5 +176,13 @@ top: 420px;
     justify-content: flex-start;
     align-items: flex-start;
   }
+  .logo-img {
+    width: 100px;
+  }
+  .logo {
+    display: flex;
+    justify-content: center;
+    padding: 10px 0 30px 0;
+  }
   
 }
